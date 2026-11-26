@@ -498,4 +498,4 @@ elif menu == "6. Strategy Simulation":
     """)
 
 st.sidebar.divider()
-st.sidebar.caption("Dynamic Inventory Replenishment System • Major Project 2026")
+st.sidebar.caption("Dynamic Inventory Replenishment System v1.0")

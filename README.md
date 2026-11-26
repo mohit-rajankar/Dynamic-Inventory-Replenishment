@@ -106,8 +106,7 @@ dynamic-inventory-replenishment/
     ├── METHODOLOGY.md          # Complete pipeline workflow guide
     ├── ALGORITHMS.md           # Mathematical formulas & algorithms
     ├── DATASET_DOCUMENTATION.md# Dataset design, schema, & assumptions
-    ├── HOW_TO_RUN.md           # Installation, execution, & troubleshooting
-    └── PRESENTATION_GUIDE.md   # Presentation script & 10 viva Q&As
+    └── HOW_TO_RUN.md           # Installation, execution, & troubleshooting
 ```
 
 ---
@@ -171,6 +170,6 @@ streamlit run app.py
 
 ---
 
-## 10. Authors & Acknowledgments
+## 10. License & Overview
 
-Developed as a major college project demonstrating the intersection of Applied Machine Learning and Operations Research in Supply Chain Management.
+An applied machine learning and operations research system for dynamic retail supply chain and inventory optimization.
