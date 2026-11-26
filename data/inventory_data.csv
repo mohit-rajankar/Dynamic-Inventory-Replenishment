@@ -1,0 +1,801 @@
+date,product_id,product_name,category,price,promotion,day_of_week,month,demand,lead_time,unit_cost,holding_cost,shortage_cost
+2025-01-01,P001,Basmati Rice,Grocery,25.28,0,2,1,53,3,18.0,0.2,8.0
+2025-01-02,P001,Basmati Rice,Grocery,25.0,0,3,1,54,3,18.0,0.2,8.0
+2025-01-03,P001,Basmati Rice,Grocery,24.51,0,4,1,62,3,18.0,0.2,8.0
+2025-01-04,P001,Basmati Rice,Grocery,24.63,0,5,1,73,3,18.0,0.2,8.0
+2025-01-05,P001,Basmati Rice,Grocery,22.35,1,6,1,110,3,18.0,0.2,8.0
+2025-01-06,P001,Basmati Rice,Grocery,25.19,0,0,1,50,3,18.0,0.2,8.0
+2025-01-07,P001,Basmati Rice,Grocery,24.7,0,1,1,55,3,18.0,0.2,8.0
+2025-01-08,P001,Basmati Rice,Grocery,25.22,0,2,1,49,3,18.0,0.2,8.0
+2025-01-09,P001,Basmati Rice,Grocery,22.34,1,3,1,86,3,18.0,0.2,8.0
+2025-01-10,P001,Basmati Rice,Grocery,24.8,0,4,1,61,3,18.0,0.2,8.0
+2025-01-11,P001,Basmati Rice,Grocery,25.16,0,5,1,75,3,18.0,0.2,8.0
+2025-01-12,P001,Basmati Rice,Grocery,24.79,0,6,1,67,3,18.0,0.2,8.0
+2025-01-13,P001,Basmati Rice,Grocery,24.52,0,0,1,58,3,18.0,0.2,8.0
+2025-01-14,P001,Basmati Rice,Grocery,25.13,0,1,1,51,3,18.0,0.2,8.0
+2025-01-15,P001,Basmati Rice,Grocery,24.64,0,2,1,58,3,18.0,0.2,8.0
+2025-01-16,P001,Basmati Rice,Grocery,25.47,0,3,1,64,3,18.0,0.2,8.0
+2025-01-17,P001,Basmati Rice,Grocery,25.43,0,4,1,54,3,18.0,0.2,8.0
+2025-01-18,P001,Basmati Rice,Grocery,21.92,1,5,1,111,3,18.0,0.2,8.0
+2025-01-19,P001,Basmati Rice,Grocery,24.52,0,6,1,77,3,18.0,0.2,8.0
+2025-01-20,P001,Basmati Rice,Grocery,25.33,0,0,1,53,3,18.0,0.2,8.0
+2025-01-21,P001,Basmati Rice,Grocery,24.73,0,1,1,56,3,18.0,0.2,8.0
+2025-01-22,P001,Basmati Rice,Grocery,25.11,0,2,1,54,3,18.0,0.2,8.0
+2025-01-23,P001,Basmati Rice,Grocery,24.87,0,3,1,62,3,18.0,0.2,8.0
+2025-01-24,P001,Basmati Rice,Grocery,25.15,0,4,1,49,3,18.0,0.2,8.0
+2025-01-25,P001,Basmati Rice,Grocery,24.95,0,5,1,81,3,18.0,0.2,8.0
+2025-01-26,P001,Basmati Rice,Grocery,24.74,0,6,1,67,3,18.0,0.2,8.0
+2025-01-27,P001,Basmati Rice,Grocery,25.32,0,0,1,69,3,18.0,0.2,8.0
+2025-01-28,P001,Basmati Rice,Grocery,22.42,1,1,1,89,3,18.0,0.2,8.0
+2025-01-29,P001,Basmati Rice,Grocery,22.32,1,2,1,98,3,18.0,0.2,8.0
+2025-01-30,P001,Basmati Rice,Grocery,24.81,0,3,1,56,3,18.0,0.2,8.0
+2025-01-31,P001,Basmati Rice,Grocery,25.42,0,4,1,58,3,18.0,0.2,8.0
+2025-02-01,P001,Basmati Rice,Grocery,24.78,0,5,2,72,3,18.0,0.2,8.0
+2025-02-02,P001,Basmati Rice,Grocery,24.62,0,6,2,72,3,18.0,0.2,8.0
+2025-02-03,P001,Basmati Rice,Grocery,24.56,0,0,2,59,3,18.0,0.2,8.0
+2025-02-04,P001,Basmati Rice,Grocery,24.55,0,1,2,60,3,18.0,0.2,8.0
+2025-02-05,P001,Basmati Rice,Grocery,25.18,0,2,2,58,3,18.0,0.2,8.0
+2025-02-06,P001,Basmati Rice,Grocery,22.1,1,3,2,92,3,18.0,0.2,8.0
+2025-02-07,P001,Basmati Rice,Grocery,25.38,0,4,2,54,3,18.0,0.2,8.0
+2025-02-08,P001,Basmati Rice,Grocery,24.54,0,5,2,73,3,18.0,0.2,8.0
+2025-02-09,P001,Basmati Rice,Grocery,24.75,0,6,2,80,3,18.0,0.2,8.0
+2025-02-10,P001,Basmati Rice,Grocery,24.92,0,0,2,55,3,18.0,0.2,8.0
+2025-02-11,P001,Basmati Rice,Grocery,24.87,0,1,2,59,3,18.0,0.2,8.0
+2025-02-12,P001,Basmati Rice,Grocery,24.6,0,2,2,64,3,18.0,0.2,8.0
+2025-02-13,P001,Basmati Rice,Grocery,24.55,0,3,2,61,3,18.0,0.2,8.0
+2025-02-14,P001,Basmati Rice,Grocery,24.6,0,4,2,63,3,18.0,0.2,8.0
+2025-02-15,P001,Basmati Rice,Grocery,25.4,0,5,2,67,3,18.0,0.2,8.0
+2025-02-16,P001,Basmati Rice,Grocery,25.3,0,6,2,73,3,18.0,0.2,8.0
+2025-02-17,P001,Basmati Rice,Grocery,25.14,0,0,2,57,3,18.0,0.2,8.0
+2025-02-18,P001,Basmati Rice,Grocery,24.63,0,1,2,58,3,18.0,0.2,8.0
+2025-02-19,P001,Basmati Rice,Grocery,21.86,1,2,2,101,3,18.0,0.2,8.0
+2025-02-20,P001,Basmati Rice,Grocery,24.96,0,3,2,57,3,18.0,0.2,8.0
+2025-02-21,P001,Basmati Rice,Grocery,21.7,1,4,2,96,3,18.0,0.2,8.0
+2025-02-22,P001,Basmati Rice,Grocery,24.64,0,5,2,66,3,18.0,0.2,8.0
+2025-02-23,P001,Basmati Rice,Grocery,24.92,0,6,2,81,3,18.0,0.2,8.0
+2025-02-24,P001,Basmati Rice,Grocery,24.87,0,0,2,63,3,18.0,0.2,8.0
+2025-02-25,P001,Basmati Rice,Grocery,24.83,0,1,2,59,3,18.0,0.2,8.0
+2025-02-26,P001,Basmati Rice,Grocery,25.19,0,2,2,57,3,18.0,0.2,8.0
+2025-02-27,P001,Basmati Rice,Grocery,25.45,0,3,2,60,3,18.0,0.2,8.0
+2025-02-28,P001,Basmati Rice,Grocery,21.9,1,4,2,100,3,18.0,0.2,8.0
+2025-03-01,P001,Basmati Rice,Grocery,21.83,1,5,3,127,3,18.0,0.2,8.0
+2025-03-02,P001,Basmati Rice,Grocery,25.15,0,6,3,77,3,18.0,0.2,8.0
+2025-03-03,P001,Basmati Rice,Grocery,25.03,0,0,3,59,3,18.0,0.2,8.0
+2025-03-04,P001,Basmati Rice,Grocery,24.79,0,1,3,64,3,18.0,0.2,8.0
+2025-03-05,P001,Basmati Rice,Grocery,24.7,0,2,3,63,3,18.0,0.2,8.0
+2025-03-06,P001,Basmati Rice,Grocery,25.36,0,3,3,59,3,18.0,0.2,8.0
+2025-03-07,P001,Basmati Rice,Grocery,25.11,0,4,3,62,3,18.0,0.2,8.0
+2025-03-08,P001,Basmati Rice,Grocery,25.23,0,5,3,77,3,18.0,0.2,8.0
+2025-03-09,P001,Basmati Rice,Grocery,25.44,0,6,3,72,3,18.0,0.2,8.0
+2025-03-10,P001,Basmati Rice,Grocery,21.3,1,0,3,95,3,18.0,0.2,8.0
+2025-03-11,P001,Basmati Rice,Grocery,25.09,0,1,3,62,3,18.0,0.2,8.0
+2025-03-12,P001,Basmati Rice,Grocery,25.3,0,2,3,54,3,18.0,0.2,8.0
+2025-03-13,P001,Basmati Rice,Grocery,24.75,0,3,3,54,3,18.0,0.2,8.0
+2025-03-14,P001,Basmati Rice,Grocery,24.6,0,4,3,61,3,18.0,0.2,8.0
+2025-03-15,P001,Basmati Rice,Grocery,25.06,0,5,3,77,3,18.0,0.2,8.0
+2025-03-16,P001,Basmati Rice,Grocery,21.92,1,6,3,121,3,18.0,0.2,8.0
+2025-03-17,P001,Basmati Rice,Grocery,25.26,0,0,3,61,3,18.0,0.2,8.0
+2025-03-18,P001,Basmati Rice,Grocery,24.99,0,1,3,50,3,18.0,0.2,8.0
+2025-03-19,P001,Basmati Rice,Grocery,25.43,0,2,3,61,3,18.0,0.2,8.0
+2025-03-20,P001,Basmati Rice,Grocery,24.62,0,3,3,67,3,18.0,0.2,8.0
+2025-03-21,P001,Basmati Rice,Grocery,25.16,0,4,3,63,3,18.0,0.2,8.0
+2025-03-22,P001,Basmati Rice,Grocery,25.27,0,5,3,77,3,18.0,0.2,8.0
+2025-03-23,P001,Basmati Rice,Grocery,24.83,0,6,3,76,3,18.0,0.2,8.0
+2025-03-24,P001,Basmati Rice,Grocery,25.26,0,0,3,60,3,18.0,0.2,8.0
+2025-03-25,P001,Basmati Rice,Grocery,22.04,1,1,3,95,3,18.0,0.2,8.0
+2025-03-26,P001,Basmati Rice,Grocery,22.3,1,2,3,96,3,18.0,0.2,8.0
+2025-03-27,P001,Basmati Rice,Grocery,21.33,1,3,3,93,3,18.0,0.2,8.0
+2025-03-28,P001,Basmati Rice,Grocery,24.88,0,4,3,66,3,18.0,0.2,8.0
+2025-03-29,P001,Basmati Rice,Grocery,25.05,0,5,3,70,3,18.0,0.2,8.0
+2025-03-30,P001,Basmati Rice,Grocery,21.52,1,6,3,125,3,18.0,0.2,8.0
+2025-03-31,P001,Basmati Rice,Grocery,24.88,0,0,3,66,3,18.0,0.2,8.0
+2025-04-01,P001,Basmati Rice,Grocery,21.6,1,1,4,101,3,18.0,0.2,8.0
+2025-04-02,P001,Basmati Rice,Grocery,24.62,0,2,4,71,3,18.0,0.2,8.0
+2025-04-03,P001,Basmati Rice,Grocery,25.14,0,3,4,50,3,18.0,0.2,8.0
+2025-04-04,P001,Basmati Rice,Grocery,25.09,0,4,4,57,3,18.0,0.2,8.0
+2025-04-05,P001,Basmati Rice,Grocery,24.51,0,5,4,81,3,18.0,0.2,8.0
+2025-04-06,P001,Basmati Rice,Grocery,25.33,0,6,4,68,3,18.0,0.2,8.0
+2025-04-07,P001,Basmati Rice,Grocery,24.96,0,0,4,56,3,18.0,0.2,8.0
+2025-04-08,P001,Basmati Rice,Grocery,22.12,1,1,4,97,3,18.0,0.2,8.0
+2025-04-09,P001,Basmati Rice,Grocery,21.52,1,2,4,91,3,18.0,0.2,8.0
+2025-04-10,P001,Basmati Rice,Grocery,25.5,0,3,4,59,3,18.0,0.2,8.0
+2025-04-11,P001,Basmati Rice,Grocery,24.78,0,4,4,62,3,18.0,0.2,8.0
+2025-04-12,P001,Basmati Rice,Grocery,24.61,0,5,4,76,3,18.0,0.2,8.0
+2025-04-13,P001,Basmati Rice,Grocery,24.59,0,6,4,76,3,18.0,0.2,8.0
+2025-04-14,P001,Basmati Rice,Grocery,24.53,0,0,4,57,3,18.0,0.2,8.0
+2025-04-15,P001,Basmati Rice,Grocery,24.64,0,1,4,61,3,18.0,0.2,8.0
+2025-04-16,P001,Basmati Rice,Grocery,24.7,0,2,4,58,3,18.0,0.2,8.0
+2025-04-17,P001,Basmati Rice,Grocery,25.16,0,3,4,58,3,18.0,0.2,8.0
+2025-04-18,P001,Basmati Rice,Grocery,24.51,0,4,4,64,3,18.0,0.2,8.0
+2025-04-19,P001,Basmati Rice,Grocery,21.74,1,5,4,114,3,18.0,0.2,8.0
+2025-04-20,P001,Basmati Rice,Grocery,24.74,0,6,4,64,3,18.0,0.2,8.0
+2025-04-21,P001,Basmati Rice,Grocery,24.56,0,0,4,63,3,18.0,0.2,8.0
+2025-04-22,P001,Basmati Rice,Grocery,25.43,0,1,4,59,3,18.0,0.2,8.0
+2025-04-23,P001,Basmati Rice,Grocery,25.2,0,2,4,65,3,18.0,0.2,8.0
+2025-04-24,P001,Basmati Rice,Grocery,24.54,0,3,4,56,3,18.0,0.2,8.0
+2025-04-25,P001,Basmati Rice,Grocery,22.34,1,4,4,93,3,18.0,0.2,8.0
+2025-04-26,P001,Basmati Rice,Grocery,25.25,0,5,4,74,3,18.0,0.2,8.0
+2025-04-27,P001,Basmati Rice,Grocery,25.35,0,6,4,70,3,18.0,0.2,8.0
+2025-04-28,P001,Basmati Rice,Grocery,25.23,0,0,4,55,3,18.0,0.2,8.0
+2025-04-29,P001,Basmati Rice,Grocery,24.77,0,1,4,63,3,18.0,0.2,8.0
+2025-04-30,P001,Basmati Rice,Grocery,25.48,0,2,4,52,3,18.0,0.2,8.0
+2025-05-01,P001,Basmati Rice,Grocery,24.55,0,3,5,55,3,18.0,0.2,8.0
+2025-05-02,P001,Basmati Rice,Grocery,24.54,0,4,5,59,3,18.0,0.2,8.0
+2025-05-03,P001,Basmati Rice,Grocery,21.61,1,5,5,124,3,18.0,0.2,8.0
+2025-05-04,P001,Basmati Rice,Grocery,24.59,0,6,5,72,3,18.0,0.2,8.0
+2025-05-05,P001,Basmati Rice,Grocery,21.27,1,0,5,94,3,18.0,0.2,8.0
+2025-05-06,P001,Basmati Rice,Grocery,25.28,0,1,5,57,3,18.0,0.2,8.0
+2025-05-07,P001,Basmati Rice,Grocery,25.07,0,2,5,60,3,18.0,0.2,8.0
+2025-05-08,P001,Basmati Rice,Grocery,21.32,1,3,5,95,3,18.0,0.2,8.0
+2025-05-09,P001,Basmati Rice,Grocery,21.78,1,4,5,100,3,18.0,0.2,8.0
+2025-05-10,P001,Basmati Rice,Grocery,25.15,0,5,5,78,3,18.0,0.2,8.0
+2025-05-11,P001,Basmati Rice,Grocery,22.31,1,6,5,115,3,18.0,0.2,8.0
+2025-05-12,P001,Basmati Rice,Grocery,24.9,0,0,5,67,3,18.0,0.2,8.0
+2025-05-13,P001,Basmati Rice,Grocery,24.62,0,1,5,59,3,18.0,0.2,8.0
+2025-05-14,P001,Basmati Rice,Grocery,24.78,0,2,5,64,3,18.0,0.2,8.0
+2025-05-15,P001,Basmati Rice,Grocery,24.93,0,3,5,60,3,18.0,0.2,8.0
+2025-05-16,P001,Basmati Rice,Grocery,21.71,1,4,5,96,3,18.0,0.2,8.0
+2025-05-17,P001,Basmati Rice,Grocery,24.91,0,5,5,66,3,18.0,0.2,8.0
+2025-05-18,P001,Basmati Rice,Grocery,25.09,0,6,5,67,3,18.0,0.2,8.0
+2025-05-19,P001,Basmati Rice,Grocery,24.54,0,0,5,58,3,18.0,0.2,8.0
+2025-05-20,P001,Basmati Rice,Grocery,21.91,1,1,5,98,3,18.0,0.2,8.0
+2025-05-21,P001,Basmati Rice,Grocery,25.07,0,2,5,59,3,18.0,0.2,8.0
+2025-05-22,P001,Basmati Rice,Grocery,25.2,0,3,5,56,3,18.0,0.2,8.0
+2025-05-23,P001,Basmati Rice,Grocery,25.15,0,4,5,60,3,18.0,0.2,8.0
+2025-05-24,P001,Basmati Rice,Grocery,25.29,0,5,5,76,3,18.0,0.2,8.0
+2025-05-25,P001,Basmati Rice,Grocery,24.93,0,6,5,72,3,18.0,0.2,8.0
+2025-05-26,P001,Basmati Rice,Grocery,24.86,0,0,5,59,3,18.0,0.2,8.0
+2025-05-27,P001,Basmati Rice,Grocery,25.24,0,1,5,58,3,18.0,0.2,8.0
+2025-05-28,P001,Basmati Rice,Grocery,25.42,0,2,5,56,3,18.0,0.2,8.0
+2025-05-29,P001,Basmati Rice,Grocery,25.02,0,3,5,54,3,18.0,0.2,8.0
+2025-05-30,P001,Basmati Rice,Grocery,22.11,1,4,5,88,3,18.0,0.2,8.0
+2025-05-31,P001,Basmati Rice,Grocery,24.99,0,5,5,74,3,18.0,0.2,8.0
+2025-06-01,P001,Basmati Rice,Grocery,24.57,0,6,6,77,3,18.0,0.2,8.0
+2025-06-02,P001,Basmati Rice,Grocery,22.43,1,0,6,89,3,18.0,0.2,8.0
+2025-06-03,P001,Basmati Rice,Grocery,24.83,0,1,6,56,3,18.0,0.2,8.0
+2025-06-04,P001,Basmati Rice,Grocery,22.11,1,2,6,83,3,18.0,0.2,8.0
+2025-06-05,P001,Basmati Rice,Grocery,24.51,0,3,6,49,3,18.0,0.2,8.0
+2025-06-06,P001,Basmati Rice,Grocery,25.36,0,4,6,62,3,18.0,0.2,8.0
+2025-06-07,P001,Basmati Rice,Grocery,24.65,0,5,6,69,3,18.0,0.2,8.0
+2025-06-08,P001,Basmati Rice,Grocery,24.62,0,6,6,58,3,18.0,0.2,8.0
+2025-06-09,P001,Basmati Rice,Grocery,25.46,0,0,6,67,3,18.0,0.2,8.0
+2025-06-10,P001,Basmati Rice,Grocery,21.53,1,1,6,90,3,18.0,0.2,8.0
+2025-06-11,P001,Basmati Rice,Grocery,25.19,0,2,6,49,3,18.0,0.2,8.0
+2025-06-12,P001,Basmati Rice,Grocery,24.89,0,3,6,57,3,18.0,0.2,8.0
+2025-06-13,P001,Basmati Rice,Grocery,22.49,1,4,6,93,3,18.0,0.2,8.0
+2025-06-14,P001,Basmati Rice,Grocery,25.03,0,5,6,73,3,18.0,0.2,8.0
+2025-06-15,P001,Basmati Rice,Grocery,24.67,0,6,6,75,3,18.0,0.2,8.0
+2025-06-16,P001,Basmati Rice,Grocery,25.49,0,0,6,51,3,18.0,0.2,8.0
+2025-06-17,P001,Basmati Rice,Grocery,25.34,0,1,6,62,3,18.0,0.2,8.0
+2025-06-18,P001,Basmati Rice,Grocery,24.64,0,2,6,63,3,18.0,0.2,8.0
+2025-06-19,P001,Basmati Rice,Grocery,24.89,0,3,6,63,3,18.0,0.2,8.0
+2025-06-20,P001,Basmati Rice,Grocery,25.26,0,4,6,57,3,18.0,0.2,8.0
+2025-06-21,P001,Basmati Rice,Grocery,24.97,0,5,6,68,3,18.0,0.2,8.0
+2025-06-22,P001,Basmati Rice,Grocery,24.68,0,6,6,68,3,18.0,0.2,8.0
+2025-06-23,P001,Basmati Rice,Grocery,24.54,0,0,6,49,3,18.0,0.2,8.0
+2025-06-24,P001,Basmati Rice,Grocery,22.13,1,1,6,86,3,18.0,0.2,8.0
+2025-06-25,P001,Basmati Rice,Grocery,21.77,1,2,6,79,3,18.0,0.2,8.0
+2025-06-26,P001,Basmati Rice,Grocery,24.58,0,3,6,49,3,18.0,0.2,8.0
+2025-06-27,P001,Basmati Rice,Grocery,25.34,0,4,6,56,3,18.0,0.2,8.0
+2025-06-28,P001,Basmati Rice,Grocery,25.15,0,5,6,68,3,18.0,0.2,8.0
+2025-06-29,P001,Basmati Rice,Grocery,25.26,0,6,6,69,3,18.0,0.2,8.0
+2025-06-30,P001,Basmati Rice,Grocery,24.87,0,0,6,59,3,18.0,0.2,8.0
+2025-07-01,P001,Basmati Rice,Grocery,24.84,0,1,7,57,3,18.0,0.2,8.0
+2025-07-02,P001,Basmati Rice,Grocery,24.98,0,2,7,56,3,18.0,0.2,8.0
+2025-07-03,P001,Basmati Rice,Grocery,25.35,0,3,7,54,3,18.0,0.2,8.0
+2025-07-04,P001,Basmati Rice,Grocery,25.41,0,4,7,51,3,18.0,0.2,8.0
+2025-07-05,P001,Basmati Rice,Grocery,25.35,0,5,7,62,3,18.0,0.2,8.0
+2025-07-06,P001,Basmati Rice,Grocery,25.0,0,6,7,66,3,18.0,0.2,8.0
+2025-07-07,P001,Basmati Rice,Grocery,22.37,1,0,7,86,3,18.0,0.2,8.0
+2025-07-08,P001,Basmati Rice,Grocery,25.42,0,1,7,54,3,18.0,0.2,8.0
+2025-07-09,P001,Basmati Rice,Grocery,24.68,0,2,7,59,3,18.0,0.2,8.0
+2025-07-10,P001,Basmati Rice,Grocery,24.69,0,3,7,54,3,18.0,0.2,8.0
+2025-07-11,P001,Basmati Rice,Grocery,25.43,0,4,7,56,3,18.0,0.2,8.0
+2025-07-12,P001,Basmati Rice,Grocery,22.12,1,5,7,102,3,18.0,0.2,8.0
+2025-07-13,P001,Basmati Rice,Grocery,24.51,0,6,7,70,3,18.0,0.2,8.0
+2025-07-14,P001,Basmati Rice,Grocery,21.62,1,0,7,89,3,18.0,0.2,8.0
+2025-07-15,P001,Basmati Rice,Grocery,21.27,1,1,7,95,3,18.0,0.2,8.0
+2025-07-16,P001,Basmati Rice,Grocery,24.98,0,2,7,53,3,18.0,0.2,8.0
+2025-07-17,P001,Basmati Rice,Grocery,25.4,0,3,7,42,3,18.0,0.2,8.0
+2025-07-18,P001,Basmati Rice,Grocery,25.46,0,4,7,52,3,18.0,0.2,8.0
+2025-07-19,P001,Basmati Rice,Grocery,25.37,0,5,7,70,3,18.0,0.2,8.0
+2025-01-01,P002,Cooking Oil,Grocery,15.0,0,2,1,37,4,10.0,0.15,6.0
+2025-01-02,P002,Cooking Oil,Grocery,14.7,0,3,1,43,4,10.0,0.15,6.0
+2025-01-03,P002,Cooking Oil,Grocery,15.3,0,4,1,45,4,10.0,0.15,6.0
+2025-01-04,P002,Cooking Oil,Grocery,14.78,0,5,1,52,4,10.0,0.15,6.0
+2025-01-05,P002,Cooking Oil,Grocery,15.23,0,6,1,49,4,10.0,0.15,6.0
+2025-01-06,P002,Cooking Oil,Grocery,15.07,0,0,1,42,4,10.0,0.15,6.0
+2025-01-07,P002,Cooking Oil,Grocery,14.73,0,1,1,38,4,10.0,0.15,6.0
+2025-01-08,P002,Cooking Oil,Grocery,14.88,0,2,1,44,4,10.0,0.15,6.0
+2025-01-09,P002,Cooking Oil,Grocery,15.2,0,3,1,42,4,10.0,0.15,6.0
+2025-01-10,P002,Cooking Oil,Grocery,15.06,0,4,1,46,4,10.0,0.15,6.0
+2025-01-11,P002,Cooking Oil,Grocery,12.84,1,5,1,83,4,10.0,0.15,6.0
+2025-01-12,P002,Cooking Oil,Grocery,13.04,1,6,1,77,4,10.0,0.15,6.0
+2025-01-13,P002,Cooking Oil,Grocery,14.94,0,0,1,44,4,10.0,0.15,6.0
+2025-01-14,P002,Cooking Oil,Grocery,15.14,0,1,1,47,4,10.0,0.15,6.0
+2025-01-15,P002,Cooking Oil,Grocery,15.16,0,2,1,38,4,10.0,0.15,6.0
+2025-01-16,P002,Cooking Oil,Grocery,14.95,0,3,1,44,4,10.0,0.15,6.0
+2025-01-17,P002,Cooking Oil,Grocery,14.71,0,4,1,42,4,10.0,0.15,6.0
+2025-01-18,P002,Cooking Oil,Grocery,15.01,0,5,1,50,4,10.0,0.15,6.0
+2025-01-19,P002,Cooking Oil,Grocery,14.76,0,6,1,54,4,10.0,0.15,6.0
+2025-01-20,P002,Cooking Oil,Grocery,13.2,1,0,1,69,4,10.0,0.15,6.0
+2025-01-21,P002,Cooking Oil,Grocery,14.79,0,1,1,39,4,10.0,0.15,6.0
+2025-01-22,P002,Cooking Oil,Grocery,14.81,0,2,1,49,4,10.0,0.15,6.0
+2025-01-23,P002,Cooking Oil,Grocery,15.22,0,3,1,44,4,10.0,0.15,6.0
+2025-01-24,P002,Cooking Oil,Grocery,14.83,0,4,1,36,4,10.0,0.15,6.0
+2025-01-25,P002,Cooking Oil,Grocery,12.95,1,5,1,83,4,10.0,0.15,6.0
+2025-01-26,P002,Cooking Oil,Grocery,14.93,0,6,1,52,4,10.0,0.15,6.0
+2025-01-27,P002,Cooking Oil,Grocery,12.94,1,0,1,59,4,10.0,0.15,6.0
+2025-01-28,P002,Cooking Oil,Grocery,12.91,1,1,1,76,4,10.0,0.15,6.0
+2025-01-29,P002,Cooking Oil,Grocery,14.76,0,2,1,43,4,10.0,0.15,6.0
+2025-01-30,P002,Cooking Oil,Grocery,15.22,0,3,1,40,4,10.0,0.15,6.0
+2025-01-31,P002,Cooking Oil,Grocery,14.76,0,4,1,50,4,10.0,0.15,6.0
+2025-02-01,P002,Cooking Oil,Grocery,15.15,0,5,2,51,4,10.0,0.15,6.0
+2025-02-02,P002,Cooking Oil,Grocery,15.29,0,6,2,52,4,10.0,0.15,6.0
+2025-02-03,P002,Cooking Oil,Grocery,15.13,0,0,2,43,4,10.0,0.15,6.0
+2025-02-04,P002,Cooking Oil,Grocery,13.2,1,1,2,70,4,10.0,0.15,6.0
+2025-02-05,P002,Cooking Oil,Grocery,15.07,0,2,2,47,4,10.0,0.15,6.0
+2025-02-06,P002,Cooking Oil,Grocery,14.95,0,3,2,48,4,10.0,0.15,6.0
+2025-02-07,P002,Cooking Oil,Grocery,15.26,0,4,2,42,4,10.0,0.15,6.0
+2025-02-08,P002,Cooking Oil,Grocery,13.35,1,5,2,82,4,10.0,0.15,6.0
+2025-02-09,P002,Cooking Oil,Grocery,14.94,0,6,2,53,4,10.0,0.15,6.0
+2025-02-10,P002,Cooking Oil,Grocery,14.8,0,0,2,46,4,10.0,0.15,6.0
+2025-02-11,P002,Cooking Oil,Grocery,13.25,1,1,2,72,4,10.0,0.15,6.0
+2025-02-12,P002,Cooking Oil,Grocery,14.85,0,2,2,39,4,10.0,0.15,6.0
+2025-02-13,P002,Cooking Oil,Grocery,15.15,0,3,2,44,4,10.0,0.15,6.0
+2025-02-14,P002,Cooking Oil,Grocery,14.87,0,4,2,48,4,10.0,0.15,6.0
+2025-02-15,P002,Cooking Oil,Grocery,14.81,0,5,2,52,4,10.0,0.15,6.0
+2025-02-16,P002,Cooking Oil,Grocery,14.98,0,6,2,53,4,10.0,0.15,6.0
+2025-02-17,P002,Cooking Oil,Grocery,14.73,0,0,2,41,4,10.0,0.15,6.0
+2025-02-18,P002,Cooking Oil,Grocery,15.28,0,1,2,44,4,10.0,0.15,6.0
+2025-02-19,P002,Cooking Oil,Grocery,15.0,0,2,2,37,4,10.0,0.15,6.0
+2025-02-20,P002,Cooking Oil,Grocery,14.85,0,3,2,44,4,10.0,0.15,6.0
+2025-02-21,P002,Cooking Oil,Grocery,15.16,0,4,2,44,4,10.0,0.15,6.0
+2025-02-22,P002,Cooking Oil,Grocery,15.24,0,5,2,56,4,10.0,0.15,6.0
+2025-02-23,P002,Cooking Oil,Grocery,15.29,0,6,2,48,4,10.0,0.15,6.0
+2025-02-24,P002,Cooking Oil,Grocery,14.74,0,0,2,47,4,10.0,0.15,6.0
+2025-02-25,P002,Cooking Oil,Grocery,13.27,1,1,2,68,4,10.0,0.15,6.0
+2025-02-26,P002,Cooking Oil,Grocery,14.76,0,2,2,39,4,10.0,0.15,6.0
+2025-02-27,P002,Cooking Oil,Grocery,15.07,0,3,2,43,4,10.0,0.15,6.0
+2025-02-28,P002,Cooking Oil,Grocery,14.8,0,4,2,46,4,10.0,0.15,6.0
+2025-03-01,P002,Cooking Oil,Grocery,14.8,0,5,3,59,4,10.0,0.15,6.0
+2025-03-02,P002,Cooking Oil,Grocery,15.05,0,6,3,50,4,10.0,0.15,6.0
+2025-03-03,P002,Cooking Oil,Grocery,14.88,0,0,3,39,4,10.0,0.15,6.0
+2025-03-04,P002,Cooking Oil,Grocery,13.2,1,1,3,71,4,10.0,0.15,6.0
+2025-03-05,P002,Cooking Oil,Grocery,15.16,0,2,3,51,4,10.0,0.15,6.0
+2025-03-06,P002,Cooking Oil,Grocery,15.26,0,3,3,52,4,10.0,0.15,6.0
+2025-03-07,P002,Cooking Oil,Grocery,15.24,0,4,3,40,4,10.0,0.15,6.0
+2025-03-08,P002,Cooking Oil,Grocery,14.86,0,5,3,50,4,10.0,0.15,6.0
+2025-03-09,P002,Cooking Oil,Grocery,14.81,0,6,3,56,4,10.0,0.15,6.0
+2025-03-10,P002,Cooking Oil,Grocery,14.97,0,0,3,43,4,10.0,0.15,6.0
+2025-03-11,P002,Cooking Oil,Grocery,15.13,0,1,3,49,4,10.0,0.15,6.0
+2025-03-12,P002,Cooking Oil,Grocery,12.84,1,2,3,69,4,10.0,0.15,6.0
+2025-03-13,P002,Cooking Oil,Grocery,15.02,0,3,3,50,4,10.0,0.15,6.0
+2025-03-14,P002,Cooking Oil,Grocery,13.32,1,4,3,69,4,10.0,0.15,6.0
+2025-03-15,P002,Cooking Oil,Grocery,15.26,0,5,3,54,4,10.0,0.15,6.0
+2025-03-16,P002,Cooking Oil,Grocery,12.92,1,6,3,86,4,10.0,0.15,6.0
+2025-03-17,P002,Cooking Oil,Grocery,14.99,0,0,3,45,4,10.0,0.15,6.0
+2025-03-18,P002,Cooking Oil,Grocery,15.02,0,1,3,44,4,10.0,0.15,6.0
+2025-03-19,P002,Cooking Oil,Grocery,14.78,0,2,3,46,4,10.0,0.15,6.0
+2025-03-20,P002,Cooking Oil,Grocery,15.27,0,3,3,49,4,10.0,0.15,6.0
+2025-03-21,P002,Cooking Oil,Grocery,15.27,0,4,3,46,4,10.0,0.15,6.0
+2025-03-22,P002,Cooking Oil,Grocery,15.03,0,5,3,50,4,10.0,0.15,6.0
+2025-03-23,P002,Cooking Oil,Grocery,14.85,0,6,3,58,4,10.0,0.15,6.0
+2025-03-24,P002,Cooking Oil,Grocery,14.77,0,0,3,47,4,10.0,0.15,6.0
+2025-03-25,P002,Cooking Oil,Grocery,14.89,0,1,3,47,4,10.0,0.15,6.0
+2025-03-26,P002,Cooking Oil,Grocery,14.98,0,2,3,46,4,10.0,0.15,6.0
+2025-03-27,P002,Cooking Oil,Grocery,15.02,0,3,3,47,4,10.0,0.15,6.0
+2025-03-28,P002,Cooking Oil,Grocery,15.29,0,4,3,46,4,10.0,0.15,6.0
+2025-03-29,P002,Cooking Oil,Grocery,15.14,0,5,3,47,4,10.0,0.15,6.0
+2025-03-30,P002,Cooking Oil,Grocery,14.79,0,6,3,57,4,10.0,0.15,6.0
+2025-03-31,P002,Cooking Oil,Grocery,14.9,0,0,3,43,4,10.0,0.15,6.0
+2025-04-01,P002,Cooking Oil,Grocery,14.91,0,1,4,44,4,10.0,0.15,6.0
+2025-04-02,P002,Cooking Oil,Grocery,15.07,0,2,4,45,4,10.0,0.15,6.0
+2025-04-03,P002,Cooking Oil,Grocery,15.18,0,3,4,51,4,10.0,0.15,6.0
+2025-04-04,P002,Cooking Oil,Grocery,15.25,0,4,4,41,4,10.0,0.15,6.0
+2025-04-05,P002,Cooking Oil,Grocery,13.02,1,5,4,86,4,10.0,0.15,6.0
+2025-04-06,P002,Cooking Oil,Grocery,15.3,0,6,4,52,4,10.0,0.15,6.0
+2025-04-07,P002,Cooking Oil,Grocery,14.74,0,0,4,50,4,10.0,0.15,6.0
+2025-04-08,P002,Cooking Oil,Grocery,14.78,0,1,4,45,4,10.0,0.15,6.0
+2025-04-09,P002,Cooking Oil,Grocery,15.08,0,2,4,46,4,10.0,0.15,6.0
+2025-04-10,P002,Cooking Oil,Grocery,15.25,0,3,4,41,4,10.0,0.15,6.0
+2025-04-11,P002,Cooking Oil,Grocery,15.14,0,4,4,49,4,10.0,0.15,6.0
+2025-04-12,P002,Cooking Oil,Grocery,15.1,0,5,4,49,4,10.0,0.15,6.0
+2025-04-13,P002,Cooking Oil,Grocery,14.98,0,6,4,56,4,10.0,0.15,6.0
+2025-04-14,P002,Cooking Oil,Grocery,14.91,0,0,4,46,4,10.0,0.15,6.0
+2025-04-15,P002,Cooking Oil,Grocery,15.11,0,1,4,46,4,10.0,0.15,6.0
+2025-04-16,P002,Cooking Oil,Grocery,14.72,0,2,4,41,4,10.0,0.15,6.0
+2025-04-17,P002,Cooking Oil,Grocery,15.24,0,3,4,43,4,10.0,0.15,6.0
+2025-04-18,P002,Cooking Oil,Grocery,15.1,0,4,4,48,4,10.0,0.15,6.0
+2025-04-19,P002,Cooking Oil,Grocery,15.27,0,5,4,60,4,10.0,0.15,6.0
+2025-04-20,P002,Cooking Oil,Grocery,12.95,1,6,4,86,4,10.0,0.15,6.0
+2025-04-21,P002,Cooking Oil,Grocery,15.04,0,0,4,48,4,10.0,0.15,6.0
+2025-04-22,P002,Cooking Oil,Grocery,15.01,0,1,4,46,4,10.0,0.15,6.0
+2025-04-23,P002,Cooking Oil,Grocery,14.95,0,2,4,45,4,10.0,0.15,6.0
+2025-04-24,P002,Cooking Oil,Grocery,14.91,0,3,4,44,4,10.0,0.15,6.0
+2025-04-25,P002,Cooking Oil,Grocery,13.17,1,4,4,71,4,10.0,0.15,6.0
+2025-04-26,P002,Cooking Oil,Grocery,14.76,0,5,4,57,4,10.0,0.15,6.0
+2025-04-27,P002,Cooking Oil,Grocery,13.01,1,6,4,89,4,10.0,0.15,6.0
+2025-04-28,P002,Cooking Oil,Grocery,13.49,1,0,4,65,4,10.0,0.15,6.0
+2025-04-29,P002,Cooking Oil,Grocery,14.82,0,1,4,44,4,10.0,0.15,6.0
+2025-04-30,P002,Cooking Oil,Grocery,12.85,1,2,4,68,4,10.0,0.15,6.0
+2025-05-01,P002,Cooking Oil,Grocery,15.1,0,3,5,45,4,10.0,0.15,6.0
+2025-05-02,P002,Cooking Oil,Grocery,14.87,0,4,5,44,4,10.0,0.15,6.0
+2025-05-03,P002,Cooking Oil,Grocery,14.87,0,5,5,56,4,10.0,0.15,6.0
+2025-05-04,P002,Cooking Oil,Grocery,12.82,1,6,5,88,4,10.0,0.15,6.0
+2025-05-05,P002,Cooking Oil,Grocery,13.09,1,0,5,63,4,10.0,0.15,6.0
+2025-05-06,P002,Cooking Oil,Grocery,15.27,0,1,5,36,4,10.0,0.15,6.0
+2025-05-07,P002,Cooking Oil,Grocery,13.31,1,2,5,70,4,10.0,0.15,6.0
+2025-05-08,P002,Cooking Oil,Grocery,14.89,0,3,5,50,4,10.0,0.15,6.0
+2025-05-09,P002,Cooking Oil,Grocery,14.94,0,4,5,43,4,10.0,0.15,6.0
+2025-05-10,P002,Cooking Oil,Grocery,14.71,0,5,5,53,4,10.0,0.15,6.0
+2025-05-11,P002,Cooking Oil,Grocery,15.23,0,6,5,57,4,10.0,0.15,6.0
+2025-05-12,P002,Cooking Oil,Grocery,14.97,0,0,5,48,4,10.0,0.15,6.0
+2025-05-13,P002,Cooking Oil,Grocery,12.86,1,1,5,68,4,10.0,0.15,6.0
+2025-05-14,P002,Cooking Oil,Grocery,13.09,1,2,5,73,4,10.0,0.15,6.0
+2025-05-15,P002,Cooking Oil,Grocery,15.08,0,3,5,41,4,10.0,0.15,6.0
+2025-05-16,P002,Cooking Oil,Grocery,13.32,1,4,5,67,4,10.0,0.15,6.0
+2025-05-17,P002,Cooking Oil,Grocery,15.25,0,5,5,49,4,10.0,0.15,6.0
+2025-05-18,P002,Cooking Oil,Grocery,15.29,0,6,5,48,4,10.0,0.15,6.0
+2025-05-19,P002,Cooking Oil,Grocery,15.16,0,0,5,44,4,10.0,0.15,6.0
+2025-05-20,P002,Cooking Oil,Grocery,14.99,0,1,5,39,4,10.0,0.15,6.0
+2025-05-21,P002,Cooking Oil,Grocery,14.84,0,2,5,45,4,10.0,0.15,6.0
+2025-05-22,P002,Cooking Oil,Grocery,14.87,0,3,5,45,4,10.0,0.15,6.0
+2025-05-23,P002,Cooking Oil,Grocery,15.05,0,4,5,43,4,10.0,0.15,6.0
+2025-05-24,P002,Cooking Oil,Grocery,14.83,0,5,5,52,4,10.0,0.15,6.0
+2025-05-25,P002,Cooking Oil,Grocery,15.22,0,6,5,50,4,10.0,0.15,6.0
+2025-05-26,P002,Cooking Oil,Grocery,14.7,0,0,5,41,4,10.0,0.15,6.0
+2025-05-27,P002,Cooking Oil,Grocery,15.18,0,1,5,49,4,10.0,0.15,6.0
+2025-05-28,P002,Cooking Oil,Grocery,14.78,0,2,5,44,4,10.0,0.15,6.0
+2025-05-29,P002,Cooking Oil,Grocery,14.77,0,3,5,44,4,10.0,0.15,6.0
+2025-05-30,P002,Cooking Oil,Grocery,15.3,0,4,5,40,4,10.0,0.15,6.0
+2025-05-31,P002,Cooking Oil,Grocery,13.38,1,5,5,86,4,10.0,0.15,6.0
+2025-06-01,P002,Cooking Oil,Grocery,15.07,0,6,6,50,4,10.0,0.15,6.0
+2025-06-02,P002,Cooking Oil,Grocery,15.29,0,0,6,44,4,10.0,0.15,6.0
+2025-06-03,P002,Cooking Oil,Grocery,13.4,1,1,6,69,4,10.0,0.15,6.0
+2025-06-04,P002,Cooking Oil,Grocery,13.3,1,2,6,68,4,10.0,0.15,6.0
+2025-06-05,P002,Cooking Oil,Grocery,13.0,1,3,6,64,4,10.0,0.15,6.0
+2025-06-06,P002,Cooking Oil,Grocery,15.2,0,4,6,45,4,10.0,0.15,6.0
+2025-06-07,P002,Cooking Oil,Grocery,13.18,1,5,6,80,4,10.0,0.15,6.0
+2025-06-08,P002,Cooking Oil,Grocery,15.0,0,6,6,55,4,10.0,0.15,6.0
+2025-06-09,P002,Cooking Oil,Grocery,13.01,1,0,6,66,4,10.0,0.15,6.0
+2025-06-10,P002,Cooking Oil,Grocery,12.75,1,1,6,70,4,10.0,0.15,6.0
+2025-06-11,P002,Cooking Oil,Grocery,14.76,0,2,6,46,4,10.0,0.15,6.0
+2025-06-12,P002,Cooking Oil,Grocery,15.29,0,3,6,47,4,10.0,0.15,6.0
+2025-06-13,P002,Cooking Oil,Grocery,14.98,0,4,6,45,4,10.0,0.15,6.0
+2025-06-14,P002,Cooking Oil,Grocery,14.73,0,5,6,54,4,10.0,0.15,6.0
+2025-06-15,P002,Cooking Oil,Grocery,14.91,0,6,6,54,4,10.0,0.15,6.0
+2025-06-16,P002,Cooking Oil,Grocery,12.88,1,0,6,66,4,10.0,0.15,6.0
+2025-06-17,P002,Cooking Oil,Grocery,14.95,0,1,6,46,4,10.0,0.15,6.0
+2025-06-18,P002,Cooking Oil,Grocery,15.15,0,2,6,41,4,10.0,0.15,6.0
+2025-06-19,P002,Cooking Oil,Grocery,13.13,1,3,6,67,4,10.0,0.15,6.0
+2025-06-20,P002,Cooking Oil,Grocery,14.79,0,4,6,44,4,10.0,0.15,6.0
+2025-06-21,P002,Cooking Oil,Grocery,14.76,0,5,6,51,4,10.0,0.15,6.0
+2025-06-22,P002,Cooking Oil,Grocery,15.02,0,6,6,47,4,10.0,0.15,6.0
+2025-06-23,P002,Cooking Oil,Grocery,14.73,0,0,6,43,4,10.0,0.15,6.0
+2025-06-24,P002,Cooking Oil,Grocery,14.96,0,1,6,42,4,10.0,0.15,6.0
+2025-06-25,P002,Cooking Oil,Grocery,14.72,0,2,6,42,4,10.0,0.15,6.0
+2025-06-26,P002,Cooking Oil,Grocery,15.19,0,3,6,41,4,10.0,0.15,6.0
+2025-06-27,P002,Cooking Oil,Grocery,14.79,0,4,6,35,4,10.0,0.15,6.0
+2025-06-28,P002,Cooking Oil,Grocery,15.19,0,5,6,49,4,10.0,0.15,6.0
+2025-06-29,P002,Cooking Oil,Grocery,15.19,0,6,6,55,4,10.0,0.15,6.0
+2025-06-30,P002,Cooking Oil,Grocery,14.94,0,0,6,47,4,10.0,0.15,6.0
+2025-07-01,P002,Cooking Oil,Grocery,14.85,0,1,7,43,4,10.0,0.15,6.0
+2025-07-02,P002,Cooking Oil,Grocery,15.0,0,2,7,42,4,10.0,0.15,6.0
+2025-07-03,P002,Cooking Oil,Grocery,14.98,0,3,7,33,4,10.0,0.15,6.0
+2025-07-04,P002,Cooking Oil,Grocery,14.83,0,4,7,40,4,10.0,0.15,6.0
+2025-07-05,P002,Cooking Oil,Grocery,12.94,1,5,7,83,4,10.0,0.15,6.0
+2025-07-06,P002,Cooking Oil,Grocery,13.44,1,6,7,76,4,10.0,0.15,6.0
+2025-07-07,P002,Cooking Oil,Grocery,14.81,0,0,7,46,4,10.0,0.15,6.0
+2025-07-08,P002,Cooking Oil,Grocery,13.2,1,1,7,69,4,10.0,0.15,6.0
+2025-07-09,P002,Cooking Oil,Grocery,13.4,1,2,7,62,4,10.0,0.15,6.0
+2025-07-10,P002,Cooking Oil,Grocery,14.97,0,3,7,42,4,10.0,0.15,6.0
+2025-07-11,P002,Cooking Oil,Grocery,15.23,0,4,7,46,4,10.0,0.15,6.0
+2025-07-12,P002,Cooking Oil,Grocery,15.22,0,5,7,44,4,10.0,0.15,6.0
+2025-07-13,P002,Cooking Oil,Grocery,14.83,0,6,7,49,4,10.0,0.15,6.0
+2025-07-14,P002,Cooking Oil,Grocery,14.87,0,0,7,36,4,10.0,0.15,6.0
+2025-07-15,P002,Cooking Oil,Grocery,15.04,0,1,7,38,4,10.0,0.15,6.0
+2025-07-16,P002,Cooking Oil,Grocery,12.88,1,2,7,73,4,10.0,0.15,6.0
+2025-07-17,P002,Cooking Oil,Grocery,13.48,1,3,7,62,4,10.0,0.15,6.0
+2025-07-18,P002,Cooking Oil,Grocery,15.06,0,4,7,34,4,10.0,0.15,6.0
+2025-07-19,P002,Cooking Oil,Grocery,13.3,1,5,7,73,4,10.0,0.15,6.0
+2025-01-01,P003,Herbal Shampoo,Personal Care,8.11,0,2,1,30,5,4.5,0.08,4.0
+2025-01-02,P003,Herbal Shampoo,Personal Care,8.11,0,3,1,23,5,4.5,0.08,4.0
+2025-01-03,P003,Herbal Shampoo,Personal Care,7.88,0,4,1,29,5,4.5,0.08,4.0
+2025-01-04,P003,Herbal Shampoo,Personal Care,8.01,0,5,1,33,5,4.5,0.08,4.0
+2025-01-05,P003,Herbal Shampoo,Personal Care,8.13,0,6,1,37,5,4.5,0.08,4.0
+2025-01-06,P003,Herbal Shampoo,Personal Care,8.07,0,0,1,19,5,4.5,0.08,4.0
+2025-01-07,P003,Herbal Shampoo,Personal Care,7.99,0,1,1,28,5,4.5,0.08,4.0
+2025-01-08,P003,Herbal Shampoo,Personal Care,7.96,0,2,1,29,5,4.5,0.08,4.0
+2025-01-09,P003,Herbal Shampoo,Personal Care,7.87,0,3,1,25,5,4.5,0.08,4.0
+2025-01-10,P003,Herbal Shampoo,Personal Care,6.89,1,4,1,39,5,4.5,0.08,4.0
+2025-01-11,P003,Herbal Shampoo,Personal Care,6.83,1,5,1,53,5,4.5,0.08,4.0
+2025-01-12,P003,Herbal Shampoo,Personal Care,7.85,0,6,1,34,5,4.5,0.08,4.0
+2025-01-13,P003,Herbal Shampoo,Personal Care,7.91,0,0,1,34,5,4.5,0.08,4.0
+2025-01-14,P003,Herbal Shampoo,Personal Care,7.91,0,1,1,28,5,4.5,0.08,4.0
+2025-01-15,P003,Herbal Shampoo,Personal Care,6.83,1,2,1,38,5,4.5,0.08,4.0
+2025-01-16,P003,Herbal Shampoo,Personal Care,7.92,0,3,1,28,5,4.5,0.08,4.0
+2025-01-17,P003,Herbal Shampoo,Personal Care,7.89,0,4,1,27,5,4.5,0.08,4.0
+2025-01-18,P003,Herbal Shampoo,Personal Care,7.9,0,5,1,35,5,4.5,0.08,4.0
+2025-01-19,P003,Herbal Shampoo,Personal Care,8.13,0,6,1,35,5,4.5,0.08,4.0
+2025-01-20,P003,Herbal Shampoo,Personal Care,6.95,1,0,1,44,5,4.5,0.08,4.0
+2025-01-21,P003,Herbal Shampoo,Personal Care,8.1,0,1,1,35,5,4.5,0.08,4.0
+2025-01-22,P003,Herbal Shampoo,Personal Care,8.12,0,2,1,32,5,4.5,0.08,4.0
+2025-01-23,P003,Herbal Shampoo,Personal Care,7.95,0,3,1,26,5,4.5,0.08,4.0
+2025-01-24,P003,Herbal Shampoo,Personal Care,7.91,0,4,1,32,5,4.5,0.08,4.0
+2025-01-25,P003,Herbal Shampoo,Personal Care,8.14,0,5,1,33,5,4.5,0.08,4.0
+2025-01-26,P003,Herbal Shampoo,Personal Care,6.89,1,6,1,49,5,4.5,0.08,4.0
+2025-01-27,P003,Herbal Shampoo,Personal Care,7.9,0,0,1,33,5,4.5,0.08,4.0
+2025-01-28,P003,Herbal Shampoo,Personal Care,8.05,0,1,1,26,5,4.5,0.08,4.0
+2025-01-29,P003,Herbal Shampoo,Personal Care,7.03,1,2,1,45,5,4.5,0.08,4.0
+2025-01-30,P003,Herbal Shampoo,Personal Care,6.91,1,3,1,45,5,4.5,0.08,4.0
+2025-01-31,P003,Herbal Shampoo,Personal Care,8.14,0,4,1,26,5,4.5,0.08,4.0
+2025-02-01,P003,Herbal Shampoo,Personal Care,7.87,0,5,2,29,5,4.5,0.08,4.0
+2025-02-02,P003,Herbal Shampoo,Personal Care,8.01,0,6,2,33,5,4.5,0.08,4.0
+2025-02-03,P003,Herbal Shampoo,Personal Care,7.03,1,0,2,34,5,4.5,0.08,4.0
+2025-02-04,P003,Herbal Shampoo,Personal Care,8.0,0,1,2,33,5,4.5,0.08,4.0
+2025-02-05,P003,Herbal Shampoo,Personal Care,7.97,0,2,2,30,5,4.5,0.08,4.0
+2025-02-06,P003,Herbal Shampoo,Personal Care,8.03,0,3,2,34,5,4.5,0.08,4.0
+2025-02-07,P003,Herbal Shampoo,Personal Care,8.04,0,4,2,30,5,4.5,0.08,4.0
+2025-02-08,P003,Herbal Shampoo,Personal Care,8.15,0,5,2,38,5,4.5,0.08,4.0
+2025-02-09,P003,Herbal Shampoo,Personal Care,8.13,0,6,2,32,5,4.5,0.08,4.0
+2025-02-10,P003,Herbal Shampoo,Personal Care,7.18,1,0,2,44,5,4.5,0.08,4.0
+2025-02-11,P003,Herbal Shampoo,Personal Care,6.94,1,1,2,42,5,4.5,0.08,4.0
+2025-02-12,P003,Herbal Shampoo,Personal Care,7.03,1,2,2,43,5,4.5,0.08,4.0
+2025-02-13,P003,Herbal Shampoo,Personal Care,8.11,0,3,2,30,5,4.5,0.08,4.0
+2025-02-14,P003,Herbal Shampoo,Personal Care,7.06,1,4,2,44,5,4.5,0.08,4.0
+2025-02-15,P003,Herbal Shampoo,Personal Care,8.05,0,5,2,32,5,4.5,0.08,4.0
+2025-02-16,P003,Herbal Shampoo,Personal Care,7.96,0,6,2,36,5,4.5,0.08,4.0
+2025-02-17,P003,Herbal Shampoo,Personal Care,8.1,0,0,2,30,5,4.5,0.08,4.0
+2025-02-18,P003,Herbal Shampoo,Personal Care,8.08,0,1,2,25,5,4.5,0.08,4.0
+2025-02-19,P003,Herbal Shampoo,Personal Care,7.91,0,2,2,25,5,4.5,0.08,4.0
+2025-02-20,P003,Herbal Shampoo,Personal Care,7.15,1,3,2,46,5,4.5,0.08,4.0
+2025-02-21,P003,Herbal Shampoo,Personal Care,8.04,0,4,2,23,5,4.5,0.08,4.0
+2025-02-22,P003,Herbal Shampoo,Personal Care,8.13,0,5,2,33,5,4.5,0.08,4.0
+2025-02-23,P003,Herbal Shampoo,Personal Care,7.88,0,6,2,30,5,4.5,0.08,4.0
+2025-02-24,P003,Herbal Shampoo,Personal Care,7.89,0,0,2,35,5,4.5,0.08,4.0
+2025-02-25,P003,Herbal Shampoo,Personal Care,7.93,0,1,2,32,5,4.5,0.08,4.0
+2025-02-26,P003,Herbal Shampoo,Personal Care,6.85,1,2,2,45,5,4.5,0.08,4.0
+2025-02-27,P003,Herbal Shampoo,Personal Care,8.07,0,3,2,27,5,4.5,0.08,4.0
+2025-02-28,P003,Herbal Shampoo,Personal Care,7.95,0,4,2,26,5,4.5,0.08,4.0
+2025-03-01,P003,Herbal Shampoo,Personal Care,7.89,0,5,3,35,5,4.5,0.08,4.0
+2025-03-02,P003,Herbal Shampoo,Personal Care,7.94,0,6,3,35,5,4.5,0.08,4.0
+2025-03-03,P003,Herbal Shampoo,Personal Care,8.02,0,0,3,27,5,4.5,0.08,4.0
+2025-03-04,P003,Herbal Shampoo,Personal Care,7.86,0,1,3,27,5,4.5,0.08,4.0
+2025-03-05,P003,Herbal Shampoo,Personal Care,8.09,0,2,3,26,5,4.5,0.08,4.0
+2025-03-06,P003,Herbal Shampoo,Personal Care,6.87,1,3,3,41,5,4.5,0.08,4.0
+2025-03-07,P003,Herbal Shampoo,Personal Care,8.1,0,4,3,28,5,4.5,0.08,4.0
+2025-03-08,P003,Herbal Shampoo,Personal Care,7.96,0,5,3,36,5,4.5,0.08,4.0
+2025-03-09,P003,Herbal Shampoo,Personal Care,7.01,1,6,3,52,5,4.5,0.08,4.0
+2025-03-10,P003,Herbal Shampoo,Personal Care,7.92,0,0,3,30,5,4.5,0.08,4.0
+2025-03-11,P003,Herbal Shampoo,Personal Care,7.94,0,1,3,31,5,4.5,0.08,4.0
+2025-03-12,P003,Herbal Shampoo,Personal Care,7.88,0,2,3,32,5,4.5,0.08,4.0
+2025-03-13,P003,Herbal Shampoo,Personal Care,7.94,0,3,3,24,5,4.5,0.08,4.0
+2025-03-14,P003,Herbal Shampoo,Personal Care,7.92,0,4,3,31,5,4.5,0.08,4.0
+2025-03-15,P003,Herbal Shampoo,Personal Care,8.14,0,5,3,38,5,4.5,0.08,4.0
+2025-03-16,P003,Herbal Shampoo,Personal Care,8.05,0,6,3,29,5,4.5,0.08,4.0
+2025-03-17,P003,Herbal Shampoo,Personal Care,8.16,0,0,3,22,5,4.5,0.08,4.0
+2025-03-18,P003,Herbal Shampoo,Personal Care,8.12,0,1,3,29,5,4.5,0.08,4.0
+2025-03-19,P003,Herbal Shampoo,Personal Care,8.09,0,2,3,33,5,4.5,0.08,4.0
+2025-03-20,P003,Herbal Shampoo,Personal Care,7.87,0,3,3,30,5,4.5,0.08,4.0
+2025-03-21,P003,Herbal Shampoo,Personal Care,7.99,0,4,3,32,5,4.5,0.08,4.0
+2025-03-22,P003,Herbal Shampoo,Personal Care,7.97,0,5,3,36,5,4.5,0.08,4.0
+2025-03-23,P003,Herbal Shampoo,Personal Care,8.02,0,6,3,31,5,4.5,0.08,4.0
+2025-03-24,P003,Herbal Shampoo,Personal Care,7.87,0,0,3,28,5,4.5,0.08,4.0
+2025-03-25,P003,Herbal Shampoo,Personal Care,8.09,0,1,3,25,5,4.5,0.08,4.0
+2025-03-26,P003,Herbal Shampoo,Personal Care,8.16,0,2,3,34,5,4.5,0.08,4.0
+2025-03-27,P003,Herbal Shampoo,Personal Care,8.12,0,3,3,32,5,4.5,0.08,4.0
+2025-03-28,P003,Herbal Shampoo,Personal Care,7.04,1,4,3,44,5,4.5,0.08,4.0
+2025-03-29,P003,Herbal Shampoo,Personal Care,6.96,1,5,3,50,5,4.5,0.08,4.0
+2025-03-30,P003,Herbal Shampoo,Personal Care,7.95,0,6,3,32,5,4.5,0.08,4.0
+2025-03-31,P003,Herbal Shampoo,Personal Care,7.93,0,0,3,32,5,4.5,0.08,4.0
+2025-04-01,P003,Herbal Shampoo,Personal Care,7.9,0,1,4,28,5,4.5,0.08,4.0
+2025-04-02,P003,Herbal Shampoo,Personal Care,8.14,0,2,4,29,5,4.5,0.08,4.0
+2025-04-03,P003,Herbal Shampoo,Personal Care,8.11,0,3,4,28,5,4.5,0.08,4.0
+2025-04-04,P003,Herbal Shampoo,Personal Care,7.9,0,4,4,33,5,4.5,0.08,4.0
+2025-04-05,P003,Herbal Shampoo,Personal Care,8.1,0,5,4,34,5,4.5,0.08,4.0
+2025-04-06,P003,Herbal Shampoo,Personal Care,8.13,0,6,4,35,5,4.5,0.08,4.0
+2025-04-07,P003,Herbal Shampoo,Personal Care,8.06,0,0,4,27,5,4.5,0.08,4.0
+2025-04-08,P003,Herbal Shampoo,Personal Care,7.92,0,1,4,29,5,4.5,0.08,4.0
+2025-04-09,P003,Herbal Shampoo,Personal Care,6.81,1,2,4,45,5,4.5,0.08,4.0
+2025-04-10,P003,Herbal Shampoo,Personal Care,7.98,0,3,4,25,5,4.5,0.08,4.0
+2025-04-11,P003,Herbal Shampoo,Personal Care,7.92,0,4,4,30,5,4.5,0.08,4.0
+2025-04-12,P003,Herbal Shampoo,Personal Care,8.09,0,5,4,34,5,4.5,0.08,4.0
+2025-04-13,P003,Herbal Shampoo,Personal Care,8.11,0,6,4,31,5,4.5,0.08,4.0
+2025-04-14,P003,Herbal Shampoo,Personal Care,7.2,1,0,4,46,5,4.5,0.08,4.0
+2025-04-15,P003,Herbal Shampoo,Personal Care,6.8,1,1,4,46,5,4.5,0.08,4.0
+2025-04-16,P003,Herbal Shampoo,Personal Care,7.91,0,2,4,30,5,4.5,0.08,4.0
+2025-04-17,P003,Herbal Shampoo,Personal Care,8.1,0,3,4,28,5,4.5,0.08,4.0
+2025-04-18,P003,Herbal Shampoo,Personal Care,7.04,1,4,4,39,5,4.5,0.08,4.0
+2025-04-19,P003,Herbal Shampoo,Personal Care,7.96,0,5,4,38,5,4.5,0.08,4.0
+2025-04-20,P003,Herbal Shampoo,Personal Care,7.9,0,6,4,34,5,4.5,0.08,4.0
+2025-04-21,P003,Herbal Shampoo,Personal Care,7.99,0,0,4,26,5,4.5,0.08,4.0
+2025-04-22,P003,Herbal Shampoo,Personal Care,8.05,0,1,4,28,5,4.5,0.08,4.0
+2025-04-23,P003,Herbal Shampoo,Personal Care,6.81,1,2,4,46,5,4.5,0.08,4.0
+2025-04-24,P003,Herbal Shampoo,Personal Care,7.97,0,3,4,31,5,4.5,0.08,4.0
+2025-04-25,P003,Herbal Shampoo,Personal Care,7.92,0,4,4,27,5,4.5,0.08,4.0
+2025-04-26,P003,Herbal Shampoo,Personal Care,8.08,0,5,4,38,5,4.5,0.08,4.0
+2025-04-27,P003,Herbal Shampoo,Personal Care,7.99,0,6,4,30,5,4.5,0.08,4.0
+2025-04-28,P003,Herbal Shampoo,Personal Care,7.9,0,0,4,34,5,4.5,0.08,4.0
+2025-04-29,P003,Herbal Shampoo,Personal Care,7.93,0,1,4,31,5,4.5,0.08,4.0
+2025-04-30,P003,Herbal Shampoo,Personal Care,6.84,1,2,4,43,5,4.5,0.08,4.0
+2025-05-01,P003,Herbal Shampoo,Personal Care,7.93,0,3,5,29,5,4.5,0.08,4.0
+2025-05-02,P003,Herbal Shampoo,Personal Care,7.92,0,4,5,30,5,4.5,0.08,4.0
+2025-05-03,P003,Herbal Shampoo,Personal Care,8.14,0,5,5,36,5,4.5,0.08,4.0
+2025-05-04,P003,Herbal Shampoo,Personal Care,7.91,0,6,5,29,5,4.5,0.08,4.0
+2025-05-05,P003,Herbal Shampoo,Personal Care,7.97,0,0,5,28,5,4.5,0.08,4.0
+2025-05-06,P003,Herbal Shampoo,Personal Care,7.89,0,1,5,30,5,4.5,0.08,4.0
+2025-05-07,P003,Herbal Shampoo,Personal Care,8.09,0,2,5,33,5,4.5,0.08,4.0
+2025-05-08,P003,Herbal Shampoo,Personal Care,8.13,0,3,5,33,5,4.5,0.08,4.0
+2025-05-09,P003,Herbal Shampoo,Personal Care,8.11,0,4,5,34,5,4.5,0.08,4.0
+2025-05-10,P003,Herbal Shampoo,Personal Care,7.86,0,5,5,38,5,4.5,0.08,4.0
+2025-05-11,P003,Herbal Shampoo,Personal Care,7.08,1,6,5,47,5,4.5,0.08,4.0
+2025-05-12,P003,Herbal Shampoo,Personal Care,8.08,0,0,5,29,5,4.5,0.08,4.0
+2025-05-13,P003,Herbal Shampoo,Personal Care,8.09,0,1,5,33,5,4.5,0.08,4.0
+2025-05-14,P003,Herbal Shampoo,Personal Care,8.07,0,2,5,32,5,4.5,0.08,4.0
+2025-05-15,P003,Herbal Shampoo,Personal Care,8.12,0,3,5,29,5,4.5,0.08,4.0
+2025-05-16,P003,Herbal Shampoo,Personal Care,8.08,0,4,5,31,5,4.5,0.08,4.0
+2025-05-17,P003,Herbal Shampoo,Personal Care,8.08,0,5,5,32,5,4.5,0.08,4.0
+2025-05-18,P003,Herbal Shampoo,Personal Care,7.88,0,6,5,30,5,4.5,0.08,4.0
+2025-05-19,P003,Herbal Shampoo,Personal Care,8.0,0,0,5,29,5,4.5,0.08,4.0
+2025-05-20,P003,Herbal Shampoo,Personal Care,6.97,1,1,5,43,5,4.5,0.08,4.0
+2025-05-21,P003,Herbal Shampoo,Personal Care,8.09,0,2,5,28,5,4.5,0.08,4.0
+2025-05-22,P003,Herbal Shampoo,Personal Care,7.92,0,3,5,31,5,4.5,0.08,4.0
+2025-05-23,P003,Herbal Shampoo,Personal Care,8.06,0,4,5,29,5,4.5,0.08,4.0
+2025-05-24,P003,Herbal Shampoo,Personal Care,7.9,0,5,5,35,5,4.5,0.08,4.0
+2025-05-25,P003,Herbal Shampoo,Personal Care,8.15,0,6,5,36,5,4.5,0.08,4.0
+2025-05-26,P003,Herbal Shampoo,Personal Care,6.83,1,0,5,51,5,4.5,0.08,4.0
+2025-05-27,P003,Herbal Shampoo,Personal Care,7.95,0,1,5,29,5,4.5,0.08,4.0
+2025-05-28,P003,Herbal Shampoo,Personal Care,7.99,0,2,5,33,5,4.5,0.08,4.0
+2025-05-29,P003,Herbal Shampoo,Personal Care,7.87,0,3,5,30,5,4.5,0.08,4.0
+2025-05-30,P003,Herbal Shampoo,Personal Care,6.85,1,4,5,44,5,4.5,0.08,4.0
+2025-05-31,P003,Herbal Shampoo,Personal Care,8.09,0,5,5,33,5,4.5,0.08,4.0
+2025-06-01,P003,Herbal Shampoo,Personal Care,8.15,0,6,6,34,5,4.5,0.08,4.0
+2025-06-02,P003,Herbal Shampoo,Personal Care,7.94,0,0,6,29,5,4.5,0.08,4.0
+2025-06-03,P003,Herbal Shampoo,Personal Care,7.07,1,1,6,45,5,4.5,0.08,4.0
+2025-06-04,P003,Herbal Shampoo,Personal Care,8.05,0,2,6,27,5,4.5,0.08,4.0
+2025-06-05,P003,Herbal Shampoo,Personal Care,7.85,0,3,6,25,5,4.5,0.08,4.0
+2025-06-06,P003,Herbal Shampoo,Personal Care,8.07,0,4,6,27,5,4.5,0.08,4.0
+2025-06-07,P003,Herbal Shampoo,Personal Care,7.0,1,5,6,47,5,4.5,0.08,4.0
+2025-06-08,P003,Herbal Shampoo,Personal Care,7.95,0,6,6,32,5,4.5,0.08,4.0
+2025-06-09,P003,Herbal Shampoo,Personal Care,7.85,0,0,6,29,5,4.5,0.08,4.0
+2025-06-10,P003,Herbal Shampoo,Personal Care,6.82,1,1,6,41,5,4.5,0.08,4.0
+2025-06-11,P003,Herbal Shampoo,Personal Care,8.08,0,2,6,28,5,4.5,0.08,4.0
+2025-06-12,P003,Herbal Shampoo,Personal Care,8.12,0,3,6,27,5,4.5,0.08,4.0
+2025-06-13,P003,Herbal Shampoo,Personal Care,7.91,0,4,6,30,5,4.5,0.08,4.0
+2025-06-14,P003,Herbal Shampoo,Personal Care,8.09,0,5,6,40,5,4.5,0.08,4.0
+2025-06-15,P003,Herbal Shampoo,Personal Care,7.11,1,6,6,48,5,4.5,0.08,4.0
+2025-06-16,P003,Herbal Shampoo,Personal Care,8.15,0,0,6,27,5,4.5,0.08,4.0
+2025-06-17,P003,Herbal Shampoo,Personal Care,8.04,0,1,6,21,5,4.5,0.08,4.0
+2025-06-18,P003,Herbal Shampoo,Personal Care,8.01,0,2,6,34,5,4.5,0.08,4.0
+2025-06-19,P003,Herbal Shampoo,Personal Care,7.98,0,3,6,29,5,4.5,0.08,4.0
+2025-06-20,P003,Herbal Shampoo,Personal Care,7.9,0,4,6,28,5,4.5,0.08,4.0
+2025-06-21,P003,Herbal Shampoo,Personal Care,6.88,1,5,6,41,5,4.5,0.08,4.0
+2025-06-22,P003,Herbal Shampoo,Personal Care,8.03,0,6,6,32,5,4.5,0.08,4.0
+2025-06-23,P003,Herbal Shampoo,Personal Care,8.15,0,0,6,28,5,4.5,0.08,4.0
+2025-06-24,P003,Herbal Shampoo,Personal Care,8.14,0,1,6,26,5,4.5,0.08,4.0
+2025-06-25,P003,Herbal Shampoo,Personal Care,7.13,1,2,6,37,5,4.5,0.08,4.0
+2025-06-26,P003,Herbal Shampoo,Personal Care,7.87,0,3,6,24,5,4.5,0.08,4.0
+2025-06-27,P003,Herbal Shampoo,Personal Care,7.86,0,4,6,34,5,4.5,0.08,4.0
+2025-06-28,P003,Herbal Shampoo,Personal Care,7.86,0,5,6,33,5,4.5,0.08,4.0
+2025-06-29,P003,Herbal Shampoo,Personal Care,6.87,1,6,6,46,5,4.5,0.08,4.0
+2025-06-30,P003,Herbal Shampoo,Personal Care,8.09,0,0,6,28,5,4.5,0.08,4.0
+2025-07-01,P003,Herbal Shampoo,Personal Care,8.12,0,1,7,28,5,4.5,0.08,4.0
+2025-07-02,P003,Herbal Shampoo,Personal Care,6.99,1,2,7,37,5,4.5,0.08,4.0
+2025-07-03,P003,Herbal Shampoo,Personal Care,7.02,1,3,7,44,5,4.5,0.08,4.0
+2025-07-04,P003,Herbal Shampoo,Personal Care,7.99,0,4,7,27,5,4.5,0.08,4.0
+2025-07-05,P003,Herbal Shampoo,Personal Care,6.88,1,5,7,48,5,4.5,0.08,4.0
+2025-07-06,P003,Herbal Shampoo,Personal Care,7.89,0,6,7,37,5,4.5,0.08,4.0
+2025-07-07,P003,Herbal Shampoo,Personal Care,8.11,0,0,7,24,5,4.5,0.08,4.0
+2025-07-08,P003,Herbal Shampoo,Personal Care,8.06,0,1,7,25,5,4.5,0.08,4.0
+2025-07-09,P003,Herbal Shampoo,Personal Care,7.86,0,2,7,29,5,4.5,0.08,4.0
+2025-07-10,P003,Herbal Shampoo,Personal Care,7.94,0,3,7,30,5,4.5,0.08,4.0
+2025-07-11,P003,Herbal Shampoo,Personal Care,6.92,1,4,7,39,5,4.5,0.08,4.0
+2025-07-12,P003,Herbal Shampoo,Personal Care,7.93,0,5,7,30,5,4.5,0.08,4.0
+2025-07-13,P003,Herbal Shampoo,Personal Care,7.93,0,6,7,34,5,4.5,0.08,4.0
+2025-07-14,P003,Herbal Shampoo,Personal Care,8.04,0,0,7,34,5,4.5,0.08,4.0
+2025-07-15,P003,Herbal Shampoo,Personal Care,8.04,0,1,7,28,5,4.5,0.08,4.0
+2025-07-16,P003,Herbal Shampoo,Personal Care,8.06,0,2,7,25,5,4.5,0.08,4.0
+2025-07-17,P003,Herbal Shampoo,Personal Care,6.93,1,3,7,37,5,4.5,0.08,4.0
+2025-07-18,P003,Herbal Shampoo,Personal Care,7.98,0,4,7,27,5,4.5,0.08,4.0
+2025-07-19,P003,Herbal Shampoo,Personal Care,7.87,0,5,7,34,5,4.5,0.08,4.0
+2025-01-01,P004,Digestive Biscuits,Food,2.97,0,2,1,72,2,1.8,0.04,1.5
+2025-01-02,P004,Digestive Biscuits,Food,2.99,0,3,1,77,2,1.8,0.04,1.5
+2025-01-03,P004,Digestive Biscuits,Food,3.0,0,4,1,71,2,1.8,0.04,1.5
+2025-01-04,P004,Digestive Biscuits,Food,2.94,0,5,1,106,2,1.8,0.04,1.5
+2025-01-05,P004,Digestive Biscuits,Food,2.98,0,6,1,99,2,1.8,0.04,1.5
+2025-01-06,P004,Digestive Biscuits,Food,2.95,0,0,1,75,2,1.8,0.04,1.5
+2025-01-07,P004,Digestive Biscuits,Food,2.97,0,1,1,76,2,1.8,0.04,1.5
+2025-01-08,P004,Digestive Biscuits,Food,2.99,0,2,1,70,2,1.8,0.04,1.5
+2025-01-09,P004,Digestive Biscuits,Food,2.99,0,3,1,72,2,1.8,0.04,1.5
+2025-01-10,P004,Digestive Biscuits,Food,3.01,0,4,1,71,2,1.8,0.04,1.5
+2025-01-11,P004,Digestive Biscuits,Food,3.0,0,5,1,91,2,1.8,0.04,1.5
+2025-01-12,P004,Digestive Biscuits,Food,2.99,0,6,1,88,2,1.8,0.04,1.5
+2025-01-13,P004,Digestive Biscuits,Food,3.03,0,0,1,75,2,1.8,0.04,1.5
+2025-01-14,P004,Digestive Biscuits,Food,2.94,0,1,1,80,2,1.8,0.04,1.5
+2025-01-15,P004,Digestive Biscuits,Food,2.59,1,2,1,132,2,1.8,0.04,1.5
+2025-01-16,P004,Digestive Biscuits,Food,3.03,0,3,1,72,2,1.8,0.04,1.5
+2025-01-17,P004,Digestive Biscuits,Food,3.05,0,4,1,85,2,1.8,0.04,1.5
+2025-01-18,P004,Digestive Biscuits,Food,2.95,0,5,1,94,2,1.8,0.04,1.5
+2025-01-19,P004,Digestive Biscuits,Food,3.01,0,6,1,97,2,1.8,0.04,1.5
+2025-01-20,P004,Digestive Biscuits,Food,2.98,0,0,1,81,2,1.8,0.04,1.5
+2025-01-21,P004,Digestive Biscuits,Food,2.94,0,1,1,70,2,1.8,0.04,1.5
+2025-01-22,P004,Digestive Biscuits,Food,3.04,0,2,1,76,2,1.8,0.04,1.5
+2025-01-23,P004,Digestive Biscuits,Food,3.0,0,3,1,84,2,1.8,0.04,1.5
+2025-01-24,P004,Digestive Biscuits,Food,3.0,0,4,1,74,2,1.8,0.04,1.5
+2025-01-25,P004,Digestive Biscuits,Food,2.56,1,5,1,174,2,1.8,0.04,1.5
+2025-01-26,P004,Digestive Biscuits,Food,2.62,1,6,1,165,2,1.8,0.04,1.5
+2025-01-27,P004,Digestive Biscuits,Food,2.99,0,0,1,77,2,1.8,0.04,1.5
+2025-01-28,P004,Digestive Biscuits,Food,3.0,0,1,1,70,2,1.8,0.04,1.5
+2025-01-29,P004,Digestive Biscuits,Food,2.97,0,2,1,75,2,1.8,0.04,1.5
+2025-01-30,P004,Digestive Biscuits,Food,2.57,1,3,1,125,2,1.8,0.04,1.5
+2025-01-31,P004,Digestive Biscuits,Food,2.97,0,4,1,61,2,1.8,0.04,1.5
+2025-02-01,P004,Digestive Biscuits,Food,2.64,1,5,2,166,2,1.8,0.04,1.5
+2025-02-02,P004,Digestive Biscuits,Food,3.06,0,6,2,93,2,1.8,0.04,1.5
+2025-02-03,P004,Digestive Biscuits,Food,2.65,1,0,2,127,2,1.8,0.04,1.5
+2025-02-04,P004,Digestive Biscuits,Food,2.99,0,1,2,80,2,1.8,0.04,1.5
+2025-02-05,P004,Digestive Biscuits,Food,3.02,0,2,2,80,2,1.8,0.04,1.5
+2025-02-06,P004,Digestive Biscuits,Food,3.02,0,3,2,76,2,1.8,0.04,1.5
+2025-02-07,P004,Digestive Biscuits,Food,2.98,0,4,2,80,2,1.8,0.04,1.5
+2025-02-08,P004,Digestive Biscuits,Food,3.03,0,5,2,93,2,1.8,0.04,1.5
+2025-02-09,P004,Digestive Biscuits,Food,2.98,0,6,2,94,2,1.8,0.04,1.5
+2025-02-10,P004,Digestive Biscuits,Food,3.01,0,0,2,78,2,1.8,0.04,1.5
+2025-02-11,P004,Digestive Biscuits,Food,3.05,0,1,2,68,2,1.8,0.04,1.5
+2025-02-12,P004,Digestive Biscuits,Food,2.94,0,2,2,71,2,1.8,0.04,1.5
+2025-02-13,P004,Digestive Biscuits,Food,2.95,0,3,2,93,2,1.8,0.04,1.5
+2025-02-14,P004,Digestive Biscuits,Food,3.03,0,4,2,75,2,1.8,0.04,1.5
+2025-02-15,P004,Digestive Biscuits,Food,3.04,0,5,2,95,2,1.8,0.04,1.5
+2025-02-16,P004,Digestive Biscuits,Food,3.01,0,6,2,95,2,1.8,0.04,1.5
+2025-02-17,P004,Digestive Biscuits,Food,3.03,0,0,2,67,2,1.8,0.04,1.5
+2025-02-18,P004,Digestive Biscuits,Food,2.98,0,1,2,78,2,1.8,0.04,1.5
+2025-02-19,P004,Digestive Biscuits,Food,3.0,0,2,2,75,2,1.8,0.04,1.5
+2025-02-20,P004,Digestive Biscuits,Food,2.96,0,3,2,83,2,1.8,0.04,1.5
+2025-02-21,P004,Digestive Biscuits,Food,2.94,0,4,2,81,2,1.8,0.04,1.5
+2025-02-22,P004,Digestive Biscuits,Food,2.97,0,5,2,99,2,1.8,0.04,1.5
+2025-02-23,P004,Digestive Biscuits,Food,2.95,0,6,2,91,2,1.8,0.04,1.5
+2025-02-24,P004,Digestive Biscuits,Food,2.97,0,0,2,78,2,1.8,0.04,1.5
+2025-02-25,P004,Digestive Biscuits,Food,2.96,0,1,2,78,2,1.8,0.04,1.5
+2025-02-26,P004,Digestive Biscuits,Food,2.99,0,2,2,65,2,1.8,0.04,1.5
+2025-02-27,P004,Digestive Biscuits,Food,2.98,0,3,2,80,2,1.8,0.04,1.5
+2025-02-28,P004,Digestive Biscuits,Food,2.94,0,4,2,72,2,1.8,0.04,1.5
+2025-03-01,P004,Digestive Biscuits,Food,3.03,0,5,3,105,2,1.8,0.04,1.5
+2025-03-02,P004,Digestive Biscuits,Food,3.05,0,6,3,98,2,1.8,0.04,1.5
+2025-03-03,P004,Digestive Biscuits,Food,3.0,0,0,3,74,2,1.8,0.04,1.5
+2025-03-04,P004,Digestive Biscuits,Food,3.03,0,1,3,77,2,1.8,0.04,1.5
+2025-03-05,P004,Digestive Biscuits,Food,3.04,0,2,3,77,2,1.8,0.04,1.5
+2025-03-06,P004,Digestive Biscuits,Food,2.99,0,3,3,78,2,1.8,0.04,1.5
+2025-03-07,P004,Digestive Biscuits,Food,3.04,0,4,3,81,2,1.8,0.04,1.5
+2025-03-08,P004,Digestive Biscuits,Food,3.05,0,5,3,89,2,1.8,0.04,1.5
+2025-03-09,P004,Digestive Biscuits,Food,3.06,0,6,3,100,2,1.8,0.04,1.5
+2025-03-10,P004,Digestive Biscuits,Food,2.95,0,0,3,75,2,1.8,0.04,1.5
+2025-03-11,P004,Digestive Biscuits,Food,2.94,0,1,3,78,2,1.8,0.04,1.5
+2025-03-12,P004,Digestive Biscuits,Food,3.04,0,2,3,84,2,1.8,0.04,1.5
+2025-03-13,P004,Digestive Biscuits,Food,3.04,0,3,3,72,2,1.8,0.04,1.5
+2025-03-14,P004,Digestive Biscuits,Food,2.97,0,4,3,80,2,1.8,0.04,1.5
+2025-03-15,P004,Digestive Biscuits,Food,2.95,0,5,3,108,2,1.8,0.04,1.5
+2025-03-16,P004,Digestive Biscuits,Food,2.97,0,6,3,105,2,1.8,0.04,1.5
+2025-03-17,P004,Digestive Biscuits,Food,2.64,1,0,3,134,2,1.8,0.04,1.5
+2025-03-18,P004,Digestive Biscuits,Food,2.97,0,1,3,80,2,1.8,0.04,1.5
+2025-03-19,P004,Digestive Biscuits,Food,2.99,0,2,3,81,2,1.8,0.04,1.5
+2025-03-20,P004,Digestive Biscuits,Food,3.0,0,3,3,73,2,1.8,0.04,1.5
+2025-03-21,P004,Digestive Biscuits,Food,2.97,0,4,3,78,2,1.8,0.04,1.5
+2025-03-22,P004,Digestive Biscuits,Food,2.96,0,5,3,115,2,1.8,0.04,1.5
+2025-03-23,P004,Digestive Biscuits,Food,3.01,0,6,3,103,2,1.8,0.04,1.5
+2025-03-24,P004,Digestive Biscuits,Food,2.58,1,0,3,138,2,1.8,0.04,1.5
+2025-03-25,P004,Digestive Biscuits,Food,3.06,0,1,3,74,2,1.8,0.04,1.5
+2025-03-26,P004,Digestive Biscuits,Food,2.55,1,2,3,135,2,1.8,0.04,1.5
+2025-03-27,P004,Digestive Biscuits,Food,2.96,0,3,3,80,2,1.8,0.04,1.5
+2025-03-28,P004,Digestive Biscuits,Food,2.96,0,4,3,81,2,1.8,0.04,1.5
+2025-03-29,P004,Digestive Biscuits,Food,2.61,1,5,3,176,2,1.8,0.04,1.5
+2025-03-30,P004,Digestive Biscuits,Food,2.56,1,6,3,195,2,1.8,0.04,1.5
+2025-03-31,P004,Digestive Biscuits,Food,3.01,0,0,3,74,2,1.8,0.04,1.5
+2025-04-01,P004,Digestive Biscuits,Food,2.69,1,1,4,126,2,1.8,0.04,1.5
+2025-04-02,P004,Digestive Biscuits,Food,3.04,0,2,4,75,2,1.8,0.04,1.5
+2025-04-03,P004,Digestive Biscuits,Food,2.62,1,3,4,135,2,1.8,0.04,1.5
+2025-04-04,P004,Digestive Biscuits,Food,3.02,0,4,4,73,2,1.8,0.04,1.5
+2025-04-05,P004,Digestive Biscuits,Food,3.05,0,5,4,100,2,1.8,0.04,1.5
+2025-04-06,P004,Digestive Biscuits,Food,2.96,0,6,4,104,2,1.8,0.04,1.5
+2025-04-07,P004,Digestive Biscuits,Food,2.61,1,0,4,140,2,1.8,0.04,1.5
+2025-04-08,P004,Digestive Biscuits,Food,2.99,0,1,4,75,2,1.8,0.04,1.5
+2025-04-09,P004,Digestive Biscuits,Food,2.95,0,2,4,86,2,1.8,0.04,1.5
+2025-04-10,P004,Digestive Biscuits,Food,2.63,1,3,4,138,2,1.8,0.04,1.5
+2025-04-11,P004,Digestive Biscuits,Food,2.69,1,4,4,147,2,1.8,0.04,1.5
+2025-04-12,P004,Digestive Biscuits,Food,3.05,0,5,4,95,2,1.8,0.04,1.5
+2025-04-13,P004,Digestive Biscuits,Food,2.98,0,6,4,97,2,1.8,0.04,1.5
+2025-04-14,P004,Digestive Biscuits,Food,2.63,1,0,4,133,2,1.8,0.04,1.5
+2025-04-15,P004,Digestive Biscuits,Food,2.96,0,1,4,81,2,1.8,0.04,1.5
+2025-04-16,P004,Digestive Biscuits,Food,2.97,0,2,4,81,2,1.8,0.04,1.5
+2025-04-17,P004,Digestive Biscuits,Food,2.95,0,3,4,82,2,1.8,0.04,1.5
+2025-04-18,P004,Digestive Biscuits,Food,3.02,0,4,4,89,2,1.8,0.04,1.5
+2025-04-19,P004,Digestive Biscuits,Food,3.02,0,5,4,90,2,1.8,0.04,1.5
+2025-04-20,P004,Digestive Biscuits,Food,3.05,0,6,4,89,2,1.8,0.04,1.5
+2025-04-21,P004,Digestive Biscuits,Food,3.05,0,0,4,75,2,1.8,0.04,1.5
+2025-04-22,P004,Digestive Biscuits,Food,2.98,0,1,4,89,2,1.8,0.04,1.5
+2025-04-23,P004,Digestive Biscuits,Food,3.0,0,2,4,81,2,1.8,0.04,1.5
+2025-04-24,P004,Digestive Biscuits,Food,2.95,0,3,4,73,2,1.8,0.04,1.5
+2025-04-25,P004,Digestive Biscuits,Food,2.66,1,4,4,133,2,1.8,0.04,1.5
+2025-04-26,P004,Digestive Biscuits,Food,2.96,0,5,4,101,2,1.8,0.04,1.5
+2025-04-27,P004,Digestive Biscuits,Food,3.02,0,6,4,98,2,1.8,0.04,1.5
+2025-04-28,P004,Digestive Biscuits,Food,2.65,1,0,4,130,2,1.8,0.04,1.5
+2025-04-29,P004,Digestive Biscuits,Food,3.03,0,1,4,77,2,1.8,0.04,1.5
+2025-04-30,P004,Digestive Biscuits,Food,3.01,0,2,4,83,2,1.8,0.04,1.5
+2025-05-01,P004,Digestive Biscuits,Food,3.0,0,3,5,75,2,1.8,0.04,1.5
+2025-05-02,P004,Digestive Biscuits,Food,3.04,0,4,5,79,2,1.8,0.04,1.5
+2025-05-03,P004,Digestive Biscuits,Food,2.99,0,5,5,105,2,1.8,0.04,1.5
+2025-05-04,P004,Digestive Biscuits,Food,3.06,0,6,5,105,2,1.8,0.04,1.5
+2025-05-05,P004,Digestive Biscuits,Food,2.69,1,0,5,125,2,1.8,0.04,1.5
+2025-05-06,P004,Digestive Biscuits,Food,2.96,0,1,5,78,2,1.8,0.04,1.5
+2025-05-07,P004,Digestive Biscuits,Food,3.0,0,2,5,73,2,1.8,0.04,1.5
+2025-05-08,P004,Digestive Biscuits,Food,3.04,0,3,5,76,2,1.8,0.04,1.5
+2025-05-09,P004,Digestive Biscuits,Food,2.61,1,4,5,134,2,1.8,0.04,1.5
+2025-05-10,P004,Digestive Biscuits,Food,3.04,0,5,5,92,2,1.8,0.04,1.5
+2025-05-11,P004,Digestive Biscuits,Food,2.94,0,6,5,102,2,1.8,0.04,1.5
+2025-05-12,P004,Digestive Biscuits,Food,2.97,0,0,5,89,2,1.8,0.04,1.5
+2025-05-13,P004,Digestive Biscuits,Food,2.6,1,1,5,137,2,1.8,0.04,1.5
+2025-05-14,P004,Digestive Biscuits,Food,2.96,0,2,5,70,2,1.8,0.04,1.5
+2025-05-15,P004,Digestive Biscuits,Food,3.02,0,3,5,71,2,1.8,0.04,1.5
+2025-05-16,P004,Digestive Biscuits,Food,2.95,0,4,5,77,2,1.8,0.04,1.5
+2025-05-17,P004,Digestive Biscuits,Food,3.03,0,5,5,93,2,1.8,0.04,1.5
+2025-05-18,P004,Digestive Biscuits,Food,2.66,1,6,5,176,2,1.8,0.04,1.5
+2025-05-19,P004,Digestive Biscuits,Food,3.02,0,0,5,68,2,1.8,0.04,1.5
+2025-05-20,P004,Digestive Biscuits,Food,2.98,0,1,5,79,2,1.8,0.04,1.5
+2025-05-21,P004,Digestive Biscuits,Food,2.69,1,2,5,119,2,1.8,0.04,1.5
+2025-05-22,P004,Digestive Biscuits,Food,2.95,0,3,5,77,2,1.8,0.04,1.5
+2025-05-23,P004,Digestive Biscuits,Food,3.03,0,4,5,69,2,1.8,0.04,1.5
+2025-05-24,P004,Digestive Biscuits,Food,3.03,0,5,5,101,2,1.8,0.04,1.5
+2025-05-25,P004,Digestive Biscuits,Food,3.0,0,6,5,104,2,1.8,0.04,1.5
+2025-05-26,P004,Digestive Biscuits,Food,2.98,0,0,5,78,2,1.8,0.04,1.5
+2025-05-27,P004,Digestive Biscuits,Food,2.64,1,1,5,136,2,1.8,0.04,1.5
+2025-05-28,P004,Digestive Biscuits,Food,3.05,0,2,5,61,2,1.8,0.04,1.5
+2025-05-29,P004,Digestive Biscuits,Food,2.95,0,3,5,77,2,1.8,0.04,1.5
+2025-05-30,P004,Digestive Biscuits,Food,2.96,0,4,5,79,2,1.8,0.04,1.5
+2025-05-31,P004,Digestive Biscuits,Food,2.97,0,5,5,102,2,1.8,0.04,1.5
+2025-06-01,P004,Digestive Biscuits,Food,3.03,0,6,6,86,2,1.8,0.04,1.5
+2025-06-02,P004,Digestive Biscuits,Food,2.56,1,0,6,136,2,1.8,0.04,1.5
+2025-06-03,P004,Digestive Biscuits,Food,2.95,0,1,6,80,2,1.8,0.04,1.5
+2025-06-04,P004,Digestive Biscuits,Food,2.69,1,2,6,127,2,1.8,0.04,1.5
+2025-06-05,P004,Digestive Biscuits,Food,3.06,0,3,6,66,2,1.8,0.04,1.5
+2025-06-06,P004,Digestive Biscuits,Food,2.96,0,4,6,73,2,1.8,0.04,1.5
+2025-06-07,P004,Digestive Biscuits,Food,3.0,0,5,6,103,2,1.8,0.04,1.5
+2025-06-08,P004,Digestive Biscuits,Food,2.99,0,6,6,103,2,1.8,0.04,1.5
+2025-06-09,P004,Digestive Biscuits,Food,2.96,0,0,6,78,2,1.8,0.04,1.5
+2025-06-10,P004,Digestive Biscuits,Food,3.02,0,1,6,77,2,1.8,0.04,1.5
+2025-06-11,P004,Digestive Biscuits,Food,2.98,0,2,6,80,2,1.8,0.04,1.5
+2025-06-12,P004,Digestive Biscuits,Food,2.95,0,3,6,78,2,1.8,0.04,1.5
+2025-06-13,P004,Digestive Biscuits,Food,2.69,1,4,6,131,2,1.8,0.04,1.5
+2025-06-14,P004,Digestive Biscuits,Food,2.97,0,5,6,103,2,1.8,0.04,1.5
+2025-06-15,P004,Digestive Biscuits,Food,2.95,0,6,6,112,2,1.8,0.04,1.5
+2025-06-16,P004,Digestive Biscuits,Food,3.04,0,0,6,70,2,1.8,0.04,1.5
+2025-06-17,P004,Digestive Biscuits,Food,2.94,0,1,6,72,2,1.8,0.04,1.5
+2025-06-18,P004,Digestive Biscuits,Food,3.04,0,2,6,57,2,1.8,0.04,1.5
+2025-06-19,P004,Digestive Biscuits,Food,3.01,0,3,6,75,2,1.8,0.04,1.5
+2025-06-20,P004,Digestive Biscuits,Food,3.04,0,4,6,83,2,1.8,0.04,1.5
+2025-06-21,P004,Digestive Biscuits,Food,3.0,0,5,6,102,2,1.8,0.04,1.5
+2025-06-22,P004,Digestive Biscuits,Food,2.96,0,6,6,101,2,1.8,0.04,1.5
+2025-06-23,P004,Digestive Biscuits,Food,2.95,0,0,6,82,2,1.8,0.04,1.5
+2025-06-24,P004,Digestive Biscuits,Food,3.05,0,1,6,74,2,1.8,0.04,1.5
+2025-06-25,P004,Digestive Biscuits,Food,3.02,0,2,6,71,2,1.8,0.04,1.5
+2025-06-26,P004,Digestive Biscuits,Food,2.99,0,3,6,85,2,1.8,0.04,1.5
+2025-06-27,P004,Digestive Biscuits,Food,3.0,0,4,6,75,2,1.8,0.04,1.5
+2025-06-28,P004,Digestive Biscuits,Food,2.65,1,5,6,168,2,1.8,0.04,1.5
+2025-06-29,P004,Digestive Biscuits,Food,2.66,1,6,6,148,2,1.8,0.04,1.5
+2025-06-30,P004,Digestive Biscuits,Food,2.96,0,0,6,61,2,1.8,0.04,1.5
+2025-07-01,P004,Digestive Biscuits,Food,3.01,0,1,7,73,2,1.8,0.04,1.5
+2025-07-02,P004,Digestive Biscuits,Food,2.6,1,2,7,121,2,1.8,0.04,1.5
+2025-07-03,P004,Digestive Biscuits,Food,2.97,0,3,7,74,2,1.8,0.04,1.5
+2025-07-04,P004,Digestive Biscuits,Food,2.94,0,4,7,71,2,1.8,0.04,1.5
+2025-07-05,P004,Digestive Biscuits,Food,3.03,0,5,7,107,2,1.8,0.04,1.5
+2025-07-06,P004,Digestive Biscuits,Food,2.95,0,6,7,101,2,1.8,0.04,1.5
+2025-07-07,P004,Digestive Biscuits,Food,2.95,0,0,7,81,2,1.8,0.04,1.5
+2025-07-08,P004,Digestive Biscuits,Food,3.03,0,1,7,59,2,1.8,0.04,1.5
+2025-07-09,P004,Digestive Biscuits,Food,2.94,0,2,7,77,2,1.8,0.04,1.5
+2025-07-10,P004,Digestive Biscuits,Food,3.06,0,3,7,69,2,1.8,0.04,1.5
+2025-07-11,P004,Digestive Biscuits,Food,2.96,0,4,7,80,2,1.8,0.04,1.5
+2025-07-12,P004,Digestive Biscuits,Food,3.01,0,5,7,96,2,1.8,0.04,1.5
+2025-07-13,P004,Digestive Biscuits,Food,2.58,1,6,7,163,2,1.8,0.04,1.5
+2025-07-14,P004,Digestive Biscuits,Food,3.05,0,0,7,63,2,1.8,0.04,1.5
+2025-07-15,P004,Digestive Biscuits,Food,2.97,0,1,7,72,2,1.8,0.04,1.5
+2025-07-16,P004,Digestive Biscuits,Food,2.66,1,2,7,128,2,1.8,0.04,1.5
+2025-07-17,P004,Digestive Biscuits,Food,2.56,1,3,7,135,2,1.8,0.04,1.5
+2025-07-18,P004,Digestive Biscuits,Food,3.06,0,4,7,67,2,1.8,0.04,1.5
+2025-07-19,P004,Digestive Biscuits,Food,2.62,1,5,7,173,2,1.8,0.04,1.5

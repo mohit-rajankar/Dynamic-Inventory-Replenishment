@@ -1,0 +1,9 @@
+product_id,product_name,strategy,purchasing_cost,holding_cost,shortage_cost,total_cost,stockout_days,avg_inventory
+P001,Basmati Rice,Traditional,47646.0,2589.2,0.0,50235.2,0,323.65
+P001,Basmati Rice,ML-Based,53442.0,2900.4,0.0,56342.4,0,362.55
+P002,Cooking Oil,Traditional,23210.0,1454.7,24.0,24688.7,1,242.45
+P002,Cooking Oil,ML-Based,26640.0,1946.25,0.0,28586.25,0,324.38
+P003,Herbal Shampoo,Traditional,5647.5,485.92,0.0,6133.42,0,151.85
+P003,Herbal Shampoo,ML-Based,5809.5,726.08,0.0,6535.58,0,226.9
+P004,Digestive Biscuits,Traditional,7790.4,616.12,9.0,8415.52,1,385.07
+P004,Digestive Biscuits,ML-Based,8013.6,974.52,0.0,8988.12,0,609.08

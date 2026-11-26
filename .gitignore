@@ -1,0 +1,22 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit run cache
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output artifacts that can be re-generated (keep directory structure)
+# outputs/*.png
